@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(19, 19, 23);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container{
+    background-color: rgb(56, 56, 58);
+    margin-top: 2em;
+    color: white;
+}
+
+h1, h2, h3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.botonbuscar{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.resultados{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 2em;
+}
